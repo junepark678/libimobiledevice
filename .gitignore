@@ -21,11 +21,11 @@ swig/*
 #config.guess
 #config.status
 #configure
-depcomp
-install-sh
-compile
-main
-ltmain.sh
+#depcomp
+#install-sh
+#compile
+#main
+#ltmain.sh
 missing
 mkinstalldirs
 libtool
